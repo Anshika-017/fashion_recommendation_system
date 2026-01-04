@@ -32,7 +32,7 @@ This script processes all images using ResNet-50 and stores the extracted featur
 pip install -r requirements.txt
 
 2. Start the Streamlit web application:
-streamlit run app.py
+streamlit run main.py
 
 3. Upload a fashion image through the web interface to receive the top-5 visually similar fashion recommendations.
 
